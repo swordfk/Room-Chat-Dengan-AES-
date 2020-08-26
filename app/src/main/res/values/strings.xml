@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomChat#Crypto</string>
+    <string name="minimum_password">minimal 6 karakter</string>
+    <string name="auth_failed">gagal deh</string>
+</resources>

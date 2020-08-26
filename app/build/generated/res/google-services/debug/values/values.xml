@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">374006499010-6via5bufp6k6ti1idhqielbej368oi48.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://appchatting-7c8fd.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">374006499010</string>
+    <string name="google_api_key" translatable="false">AIzaSyAe-NOA9jfjYsUOvIzylwtPnjExKZ7BWig</string>
+    <string name="google_app_id" translatable="false">1:374006499010:android:b80f1399cffe03fb2d5d5b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAe-NOA9jfjYsUOvIzylwtPnjExKZ7BWig</string>
+    <string name="google_storage_bucket" translatable="false">appchatting-7c8fd.appspot.com</string>
+    <string name="project_id" translatable="false">appchatting-7c8fd</string>
+</resources>
